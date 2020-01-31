@@ -207,4 +207,6 @@ const contactInfo = {
   email_address: "aliassad2@hotmail.com"
 };
 
-export { greeting, socialMediaLinks, skillsSection, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo };
+export { greeting, socialMediaLinks, skillsSection, openSource, bigProjects,
+  // achievementSection,
+  blogSection, talkSection, podcastSection, contactInfo };
