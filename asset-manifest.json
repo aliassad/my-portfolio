@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.7ae53ec4.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.0715c702.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.0715c702.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.ff53bb3d.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.ff53bb3d.js.map",
+    "static/js/2.19becf24.chunk.js": "/my-portfolio/static/js/2.19becf24.chunk.js",
+    "static/js/2.19becf24.chunk.js.map": "/my-portfolio/static/js/2.19becf24.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "precache-manifest.44358f748b1b898718f59d3a5174c924.js": "/my-portfolio/precache-manifest.44358f748b1b898718f59d3a5174c924.js",
+    "service-worker.js": "/my-portfolio/service-worker.js",
+    "static/css/main.7ae53ec4.chunk.css.map": "/my-portfolio/static/css/main.7ae53ec4.chunk.css.map",
+    "static/js/2.19becf24.chunk.js.LICENSE": "/my-portfolio/static/js/2.19becf24.chunk.js.LICENSE",
+    "static/media/index.css": "/my-portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactMail.png": "/my-portfolio/static/media/contactMail.d6d4086f.png",
+    "static/media/developerActivity.svg": "/my-portfolio/static/media/developerActivity.59389695.svg",
+    "static/media/all.css": "/my-portfolio/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/logo.svg": "/my-portfolio/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/my-portfolio/static/media/manOnTable.52be3144.svg",
+    "static/media/TalkCard.css": "/my-portfolio/static/media/talksCardBack.0288c5ec.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff53bb3d.js",
+    "static/js/2.19becf24.chunk.js",
+    "static/css/main.7ae53ec4.chunk.css",
+    "static/js/main.0715c702.chunk.js"
+  ]
+}
