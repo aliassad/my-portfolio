@@ -2,19 +2,19 @@
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  title: "Hi all 👋 I'm Saad",
+  title: "Hi all 👋 I'm Ali Assad",
   subTitle:
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks",
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with latest framework and languages like Python / Django / Angular / Android / Reactjs / Nodejs  and some other cool libraries and frameworks",
+  resumeLink: "https://drive.google.com/file/d/1E0ryD3AjDjGgR1it0odv8XkB1GUpQ1KZ/view?usp=sharing"
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7"
+  github: "https://github.com/aliassad",
+  linkedin: "https://www.linkedin.com/in/ali-assad-336019133",
+  gmail: "syedaliassad2@gmail.com",
+  hotmail: "aliassad2@hotmail.com",
+  facebook: "https://www.facebook.com/Assad32"
 };
 
 const skillsSection = {
@@ -56,8 +56,8 @@ const skillsSection = {
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
+      skillName: "angular",
+      fontAwesomeClassname: "fab fa-angular"
     },
     {
       skillName: "npm",
@@ -90,8 +90,8 @@ const openSource = {
   /* Your Open Source Section to View Your Github Pinned Projects */
   /* To know how to get github key look at readme.md */
 
-  githubConvertedToken: "Your Github Converted Token",
-  githubUserName: "Your Github Username"
+  // githubConvertedToken: "token",
+  // githubUserName: "aliassad"
 };
 
 const bigProjects = {
@@ -100,12 +100,16 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELP TO CREATE THEIR TECH",
   projects: [
     {
-      image: "https://drive.google.com/uc?id=1exWn9T6j8TsfDDHJnS3VR66eP6RiGAfY",
-      link: "http://saayahealth.com/"
+      image: "https://vepimg.b8cdn.com/uploads/vjfnew/246/uploads/vjf/content/misc/1578475933Screen%20Shot%202020-01-08%20at%202.30.09%20PM.png",
+      link: "https://www.vfairs.com/"
     },
     {
-      image: "http://nextu.se/wp-content/themes/nextu/images/og_img.jpg",
-      link: "http://nextu.se/"
+      image: "https://vepimg.b8cdn.com/uploads/vjfnew/246/uploads/vjf/content/misc/1578476570Screen%20Shot%202020-01-08%20at%202.42.42%20PM.png",
+      link: "https://www.starfll.org/"
+    },
+    {
+      image: "http://dinifi.com/dinifi-assets/logo@2x.png",
+      link: "http://dinifi.com/"
     }
   ]
 };
@@ -199,8 +203,8 @@ const podcastSection = {
 const contactInfo = {
   title: "Contact Me ☎️",
   subtitle: "Discuss a project or just want to say hi my inbox is open for all",
-  number: "+92-3243454077",
-  email_address: "saadpasta70@gmail.com"
+  number: "+92-3348101214",
+  email_address: "aliassad2@hotmail.com"
 };
 
 export { greeting, socialMediaLinks, skillsSection, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo };

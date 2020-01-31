@@ -6,10 +6,10 @@
   "commit": false,
   "contributors": [
     {
-      "login": "saadpasta",
-      "name": "Saad Pasta",
+      "login": "aliassad",
+      "name": "Ali Assad",
       "avatar_url": "https://avatars2.githubusercontent.com/u/23307811?v=4",
-      "profile": "http://saadpasta.github.io",
+      "profile": "http://aliassad.github.io",
       "contributions": [
         "code",
         "doc",
@@ -59,7 +59,7 @@
   ],
   "contributorsPerLine": 7,
   "projectName": "developerFolio",
-  "projectOwner": "saadpasta",
+  "projectOwner": "aliassad",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true

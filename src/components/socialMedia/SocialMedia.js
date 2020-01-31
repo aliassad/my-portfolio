@@ -17,8 +17,8 @@ export default function socialMedia() {
         <i className="fab fa-google"></i>
         <span></span>
       </a>
-      <a href={socialMediaLinks.gitlab} className="icon-button gitlab" target="_blank">
-        <i className="fab fa-gitlab"></i>
+      <a href={`mailto:${socialMediaLinks.hotmail}`} className="icon-button hotmail" target="_blank">
+        <i className="fas fa-envelope-open-text"></i>
         <span></span>
       </a>
       <a href={socialMediaLinks.facebook} className="icon-button facebook" target="_blank">

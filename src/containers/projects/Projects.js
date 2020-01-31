@@ -10,12 +10,12 @@ export default function Projects() {
   const [repo, setrepo] = useState([]);
 
   useEffect(() => {
-    getRepoData();
+   // getRepoData();
   }, []);
 
   function getRepoData() {
     const client = new ApolloClient({
-      uri: "https://api.github.com/graphql",
+      uri: "http://api.github.com/graphql",
       request: operation => {
         operation.setContext({
           headers: {
@@ -73,7 +73,7 @@ export default function Projects() {
           return <GithubRepoCard repo={v} key={v.node.id} />;
         })}
       </div>
-      <Button text={"More Projects"} className="project-button" href="https://github.com/saadpasta" newTab={true} />
+      <Button text={"More Projects"} className="project-button" href="https://github.com/aliassad" newTab={true} />
     </div>
   );
 }
